@@ -3,7 +3,7 @@
 Esse repositório possui como intuito apresentar a maratona de 21 projetos ao longo de 21 dias inspirada na <a href="https://www.instagram.com/p/ChTBg1BpLGU/?igshid=MDJmNzVkMjY=">Rocketseat</a>. Conforme feitos, cada um deles será linkado ao seu respectivo título.
 
 <ul>
-   <li><b> :dizzy: First Day </b> :pencil2: Creates repository and describe all the projects</li>
+   <li><b> :dizzy: First Day </b> :pencil2: Creates repository and describe all the projects :heavy_check_mark: </li>
     <li><b> :dizzy: Second Day </b> :wave: Custom Hello World with fonts, colors and images</li>
     <li><b> :dizzy: Third Day </b> :black_square_button: Animated Button </li>
     <li><b> :dizzy: Fourth Day </b> :heavy_division_sign: Calculator</li>
