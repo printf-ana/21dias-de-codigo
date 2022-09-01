@@ -1,7 +1,7 @@
 # 21dias-de-codigo
 
 <ul>
-    <li><b>First Day - </b>Creates repository and describe all the projects</li>
+   :dizzy:<li><b>First Day - </b> Creates repository and describe all the projects</li>
     <li><b>Second Day - </b>Custom Hello World with fonts, colors and images</li>
     <li><b>Third Day - </b>Animated Button </li>
     <li><b>Fourth Day - </b>Calculator</li>
