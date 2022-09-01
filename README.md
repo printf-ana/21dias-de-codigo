@@ -1,4 +1,6 @@
-# 21dias-de-codigo
+# 21 dias de código
+
+Esse repositório possui como intuito apresentar a maratona de 21 projetos ao longo de 21 dias inspirada na <a href="https://www.instagram.com/p/ChTBg1BpLGU/?igshid=MDJmNzVkMjY=">Rocketseat</a>. Conforme feitos, cada um deles será linkado ao seu respectivo título.
 
 <ul>
    <li><b> :dizzy: First Day </b> :pencil2: Creates repository and describe all the projects</li>
