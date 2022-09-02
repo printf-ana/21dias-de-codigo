@@ -4,7 +4,7 @@ Esse repositório possui como intuito apresentar a maratona de 21 projetos ao lo
 
 <ul>
    <li><b> :dizzy: First Day </b> :pencil2: Creates repository and describe all the projects :heavy_check_mark: </li>
-    <li><b> :dizzy: Second Day </b> :wave: Custom Hello World with fonts, colors and images</li>
+    <li><b> :dizzy: Second Day </b> :wave: Custom Hello World with fonts, colors and images :heavy_check_mark: </li>
     <li><b> :dizzy: Third Day </b> :black_square_button: Animated Button </li>
     <li><b> :dizzy: Fourth Day </b> :heavy_division_sign: Calculator</li>
     <li><b> :dizzy: Fifth Day </b> :warning: A custom page with 404 error</li>

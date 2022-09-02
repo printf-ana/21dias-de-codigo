@@ -1,0 +1,40 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-image: url('https://abrakadabra.fun/uploads/posts/2022-01/1641234135_1-abrakadabra-fun-p-kirpichnaya-stena-neon-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.lala {
+    padding: 0 6rem;
+    background: white;
+}
+
+.animatedText {
+    font-family: 'Raleway', sans-serif;
+    text-transform: uppercase;
+    background-image: linear-gradient(
+    -225deg,
+    #1c0b2b 0%,
+    #5c65c0 29%,
+    #6f95ff 67%,
+    #e30075 100%
+    );
+    background-size: auto auto;
+    background-clip: border-box;
+    background-size: 200% auto;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: textclip 2s linear infinite;
+    display: inline-block;
+    font-size: 10rem;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}
